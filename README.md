@@ -1,5 +1,5 @@
 # ROOP faceswap english Google Colab
-Project moved to VideoFake
+Project moved to <a href="https://github.com/neuromodern/VideoFake/" target="_parent">VideoFake</a>.
 
 Use link bellow for open new edition in collab:
 
